@@ -1,0 +1,27 @@
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\bin\Debug\PDFtoTIFF.exe.config
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\bin\Debug\PDFtoTIFF.exe
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\bin\Debug\PDFtoTIFF.pdb
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.Form1.resources
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.Properties.Resources.resources
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.csproj.GenerateResource.Cache
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.exe
+c:\users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.pdb
+C:\Users\serbayacar\documents\visual studio 2012\Projects\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.csprojResolveAssemblyReference.cache
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\bin\Debug\PDFtoTIFF.exe.config
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.exe
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.pdb
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\bin\Debug\PDFtoTIFF.exe
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\bin\Debug\PDFtoTIFF.pdb
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.csprojResolveAssemblyReference.cache
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.Form1.resources
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.Properties.Resources.resources
+C:\Users\serbayacar\Desktop\PDFtoTIFF\PDFtoTIFF\obj\Debug\PDFtoTIFF.csproj.GenerateResource.Cache
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\bin\Debug\PDFtoTIFF.exe.config
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\obj\Debug\PDFtoTIFF.exe
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\obj\Debug\PDFtoTIFF.pdb
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\obj\Debug\PDFtoTIFF.csprojResolveAssemblyReference.cache
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\obj\Debug\PDFtoTIFF.Form1.resources
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\obj\Debug\PDFtoTIFF.Properties.Resources.resources
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\obj\Debug\PDFtoTIFF.csproj.GenerateResource.Cache
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\bin\Debug\PDFtoTIFF.exe
+C:\Users\Serbay\Desktop\PDFtoTIFFx86\PDFtoTIFF\bin\Debug\PDFtoTIFF.pdb
